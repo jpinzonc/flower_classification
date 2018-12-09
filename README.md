@@ -1,9 +1,9 @@
-## FLOWER CLASSIFICATION BASED ON IMAGES
-## PURPOSE
+# Flower Classification Based on Images
+## PURPOSE:
 Generate a CNN model to identify the type of flower on an image
 
-## DESCRIPTION
+## DESCRIPTION:
 This is the Project for the Udacity pytorch Challenge 2018. 
 
-## USAGE
+## USAGE:
  
