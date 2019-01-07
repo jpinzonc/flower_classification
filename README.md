@@ -1,9 +1,9 @@
 # Flower Classification Based on Images
 ## PURPOSE:
-Generate a CNN model to identify the type of flower on an image
+To generate a Convolutional Neural Network (CNN) model using pytorch to classify flowers from images
 
 ## DESCRIPTION:
-This is the Project for the Udacity pytorch Challenge 2018. 
+This is my Project for the Udacity pytorch Challenge 2018 program I was part of. 
 
 ## USAGE:
  
